@@ -1,5 +1,5 @@
 # Mobile-Apps-Tanya
-  Tanya is an application that aims to provide convenience to public transportation users with features such as being able to find out the condition of the bus in real time, buying tickets online and digital payments. Our application available in [here](https://drive.google.com/drive/folders/1OOtFfMYukDQcG-15zsmnmhF0eaHKWgq7)
+  Tanya is an application that aims to provide convenience to public transportation users with features such as being able to find out the condition of the bus in real time, buying tickets online and digital payments. Our application available in [here](https://drive.google.com/file/d/1owkILZcLwm6OPMEreCyrUqtJhIf0X7BI/view?usp=sharing)
 
 # How to running the app
 1. Download or clone the repository

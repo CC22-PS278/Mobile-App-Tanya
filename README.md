@@ -1,4 +1,4 @@
-# Mobile-Apps-Tanya
+# Mobile-App-Tanya
   Tanya is an application that aims to provide convenience to public transportation users with features such as being able to find out the condition of the bus in real time, buying tickets online and digital payments. Our application available in [here](https://drive.google.com/file/d/1qh4zcb6FkSx25N89sE6iZmPANA80TsE8/view?usp=sharing)
 
 # How to running the app
